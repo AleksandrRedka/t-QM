@@ -1,0 +1,36 @@
+{
+  "name": "t-qm",
+  "version": "1.0.0",
+  "description": "test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksandrRedka/t-QM.git"
+  },
+  "author": "Aleksandr Redka <alex24.redka@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksandrRedka/t-QM/issues"
+  },
+  "homepage": "https://github.com/AleksandrRedka/t-QM#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "normalize.css": "^8.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "parallax-js": "^3.1.0"
+  }
+}
